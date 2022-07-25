@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ }
+
+
+.LOGO{
+    position: relative;
+    bottom: 80px;
+    
+}
+
+header{
+    width: 100;
+    background-color:transparent;
+    height: 100px;
+    
+      }
+
+#MENU-H{
+   padding: 0px;
+    list-style-type: none;
+    font-size: 35px;
+    }
+
+#MENU-H li {
+    display:inline;
+    margin: 10px;
+    position: relative;
+    left: 900px;
+    bottom: 280px;
+    text-decoration: none;
+           }
+
+#MENU-H li a{
+    color: aliceblue;
+    text-decoration: none;
+             }
+
+#MENU-H li a:hover{
+    color: #C3F5AF;
+    font-family: 'League Gothic', sans-serif;;
+}
+      
+
+body{
+background-color:#202021;
+font-family: 'League Gothic', sans-serif;
+background-image: url(wallpaper\ lofi.jpg);
+background-repeat: no-repeat;
+background-size: contain;
+}
+
+
+.LUGAR{
+    position: relative;
+    left: 10px;
+    top: 100px;
+}
+
+
+h1{
+    font-family: 'League Gothic', sans-serif;
+    color: #C3F5AF;
+    font-size: 100px;
+    margin: 30px;
+}
+
+
+
+.SOBRENOS{
+    color: #fff;
+    position: relative;
+    top: 350px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-right: 800px;
+    left: 40px;
+}
+
+
+.VIDEO{
+     position: relative;
+     left: 800px;
+     top: 75px;    
+}
